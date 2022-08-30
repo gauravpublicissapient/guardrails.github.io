@@ -2,5 +2,4 @@
 layout: default
 title: Article 1
 parent: Category 1
-nav_order: 1
 ---
