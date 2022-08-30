@@ -7,7 +7,15 @@ permalink: /
 ---
 
 
-# Heading 1
+# Get Started
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<span class="fs-8">
+[Link button](http://example.com/){: .btn }
+</span>
+
+
 ## Heading 2
 ### Heading 3
 #### Heading 4
