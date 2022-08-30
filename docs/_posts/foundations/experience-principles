@@ -2,8 +2,7 @@
 layout: default
 title: experience-principles
 parent: foundations
-nav_order: 2
-permalink: /docs/foundations/experience-principles
+nav_order: 1
 ---
 
 experience-principles
