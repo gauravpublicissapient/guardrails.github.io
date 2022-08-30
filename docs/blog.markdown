@@ -1,5 +1,7 @@
 ---
 layout: default
-title: Configuration
-nav_order: 2
+title: Foundations
+nav_order: 3
+has_children: true
+permalink: /docs/foundations
 ---
