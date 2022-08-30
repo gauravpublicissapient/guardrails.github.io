@@ -2,6 +2,6 @@
 layout: default
 title: Experience Principles
 nav_order: 3
-has_children: true
-permalink: /docs/foundations
+has_children: false
+permalink: /docs/foundations/
 ---
