@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Article 3
-parent: Category 1
+title: Article 4
+parent: Category 2
 ---
