@@ -1,6 +1,10 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-08-23 21:14:06 +0400
-categories: jekyll update
+layout: default
+title: Typography
+parent: Configuration
+nav_order: 1
 ---
+
+What is it?
+-----------------
+----------------- 
