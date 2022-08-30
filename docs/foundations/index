@@ -3,5 +3,5 @@ layout: default
 title: Foundations
 nav_order: 1
 has_children: true
-permalink: /_posts/foundations/
+permalink: /foundations/
 ---
