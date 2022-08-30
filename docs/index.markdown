@@ -11,6 +11,9 @@ permalink: /
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
+https://media4.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif?cid=ecf05e47bunh424023eq3wh3tvxfb5126rpzex53whm3ypd3&rid=giphy.gif&ct=g
+
+
 <span class="fs-3">
 [Get Started](http://example.com/){: .btn }
 </span>
