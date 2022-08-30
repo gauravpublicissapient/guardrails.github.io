@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: Configuration
+parent: Foundations
 nav_order: 1
 ---
 
