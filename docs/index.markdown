@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 {: .note }
 A paragraph
 
-###### Heading 6
+###### Heading 6 - GSN
 
 Default label
 {: .label }
