@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Foundations
+title: App & Feature Development
 nav_order: 3
 has_children: true
-permalink: /foundations/
+permalink: /app-and-feature-development/
 ---

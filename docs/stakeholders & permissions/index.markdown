@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Foundations
+title: Stakeholders & Permissions
 nav_order: 3
 has_children: true
-permalink: /foundations/
+permalink: /stakeholders-and-permissions/
 ---
