@@ -4,8 +4,8 @@ title: Embrace Business Agility
 parent: Principles
 ---
 
-Embrace business agility
--
+# Embrace business agility
+
 
 Business Agility applies the principles of agile processes and lifecycle development to the app ways of working in regards to planning, development and release.
 
@@ -13,7 +13,7 @@ It is a set of traits that will enable the teams involved in the Discover NEOM A
 
 This will enable the Discover NEOM app to be more responsive to change, reduce costs and meet requirements with higher velocity. This will also enable to make changes rapidly through the implementation of new technologies.
 
-# Why/Benefits (to NEOM and Tourists)
+## Why/Benefits (to NEOM and Tourists)
 
 1. NEOM can easily react and respond to opportunities and threats in the marketplace while remaining customer-centric.
 2. Foster creativity and innovative problem-solving.
@@ -27,7 +27,7 @@ This will enable the Discover NEOM app to be more responsive to change, reduce c
 11. Supports innovation and NEOM being a leader in Tourism
 12. Generates a focus on value and value propositions
 
-# Key Considerations
+## Key Considerations
 
 1. Is your team set-up to test and learn quickly?
 2. Are you able to react quickly to changes in design based on feedback?
@@ -36,7 +36,7 @@ This will enable the Discover NEOM app to be more responsive to change, reduce c
 5. Have you established clear Objectives and Key Results (OKRs) before commencing work?
 6. Do you have the right skill set and resources in your team to deliver the new experience throught he Discover NEOM App?
 
-# Practical Actions
+## Practical Actions
 
 1. Set up the team to focus on value propositions, to ensure the outcomes are
 2. Regularly track KPIs and measure the success of objectives throughout. 
@@ -46,4 +46,4 @@ This will enable the Discover NEOM app to be more responsive to change, reduce c
 6. Apply DevOps practices and team structure to enable agility through feature development"		"
 
 
-# Reference Material to Support/Leverage
+## Reference Material to Support/Leverage
