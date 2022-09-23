@@ -45,5 +45,6 @@ This will enable the Discover NEOM app to be more responsive to change, reduce c
 5. Encourage exange of ideas among the team members and give autonomy to the team members to make decisions quickly
 6. Apply DevOps practices and team structure to enable agility through feature development"		"
 
+---
 
 ## Reference Material to Support/Leverage
