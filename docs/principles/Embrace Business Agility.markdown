@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Embrace Business Agility
+title: Embrace-Business-Agility
 parent: Principles
 ---
 
