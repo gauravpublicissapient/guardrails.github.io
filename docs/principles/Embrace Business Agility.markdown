@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Experience Principles
-parent: Foundations
+title: Embrace Business Agility
+parent: Principles
 ---
 
 experience-principles

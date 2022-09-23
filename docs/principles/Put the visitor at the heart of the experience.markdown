@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Product Principles
+title: Put the visitor at the heart of the experience
 parent: Foundations
 
 ---
