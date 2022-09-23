@@ -14,10 +14,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <iframe src="https://giphy.com/embed/IwAZ6dvvvaTtdI8SD5" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
-<span class="fs-3">
+
 ### New to markdown ??
 
-[Get help here](https://www.markdownguide.org/basic-syntax/){: .btn } 
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. 
+
+<span class="fs-3">
+[Get help here](https://www.markdownguide.org/basic-syntax/){: .btn }     
 [Markdown editor](https://stackedit.io/app#){: .btn }
 </span>
 
