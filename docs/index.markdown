@@ -15,7 +15,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 <span class="fs-3">
-[Get Started](http://example.com/){: .btn }
+### New to markdown ??
+
+[Get help here](https://www.markdownguide.org/basic-syntax/){: .btn }
 </span>
 
 
