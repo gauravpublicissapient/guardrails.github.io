@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Guardrails
-email: connect@bappnow.com
+title: Neom Guardrails
+email: me@bigmints.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: bappnow
-github_username:  bigmints
+twitter_username: neom
+github_username:  neom
 
 # Build settings
 # theme: just-the-docs
@@ -51,7 +51,7 @@ back_to_top_text: "Back to top"
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_link_text: "Edit this page"
 gh_edit_repository: "https://github.com/bigmints/bapp.github.io" # the github URL for your repo
 gh_edit_branch: "gh-pages/docs" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
