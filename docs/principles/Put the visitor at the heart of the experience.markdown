@@ -20,17 +20,17 @@ Human life is the primary force propelling the vision of NEOM and must be at the
 
 ## Key Considerations
 
-1. Who are the targeted visitor groups?  
-2. Do we have a clear view of the current context of the targeted user groups?  
-3. What is the gap that the proposed proposition, experience, or product promise to fill?  
-4. How are the visitors filling in the existing gap?  
-5. What benefits does the proposed proposition, experience or product promise the visitor?  
-6. Did we effectively involve visitors in the research phase?  
-7. Have we adhered to the user-centred design process?  
-8. Are there any existing mental models which may be leveraged in the design phase?  
-9. Have we tested the proposed proposition, experience, or product been tested with real users before the development phase?  
-10. How did the user feedback impact our thinking and design?  
-11.  Do we want to perform Hyper-Personalization? This would be more useful to a returning visitor when compared to a new visitor
+1. Who are the targeted visitor groups?
+2. Do we have a clear view of the current context of the targeted user groups?
+3. What is the gap that the proposed proposition, experience, or product promise to fill?
+4. How are the visitors filling in the existing gap?
+5. What benefits does the proposed proposition, experience or product promise the visitor?
+6. How do we hyper-personalise the experience for each user by leveraging information from previous site visits/interactions?
+7. Did we effectively involve visitors in the research phase?
+8. Have we adhered to the user-centred design process?
+9. Are there any existing mental models which may be leveraged in the design phase?
+10. Have we tested the proposed proposition, experience, or product been tested with real users before the development phase?
+11. How did the user feedback impact our thinking and design?
   
 ## Practical Actions
 
