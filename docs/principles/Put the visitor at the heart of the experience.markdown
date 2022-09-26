@@ -41,8 +41,8 @@ Human life is the primary force propelling the vision of NEOM and must be at the
 4. Involve users early and make them integral to all stages of the product lifecycle.  
 5. Ensure the participating visitors are an appropriate representation of the overall visitor base.  
 6. Choose an appropriate validation method that aligns with what is being tesed and expected user feedback  
-7. Test regularly - As the product is being built, regularly test it with potential users to ensure it meets people's needs.
-
+7. Test regularly - As the product is being built, regularly test it with potential users to ensure it meets people's needs. 
+fg
 ---
 
 ## Reference Material to Support/Leverage
