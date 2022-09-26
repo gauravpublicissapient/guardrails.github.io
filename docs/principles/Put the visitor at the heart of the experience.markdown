@@ -10,13 +10,13 @@ Human life is the primary force propelling the vision of NEOM and must be at the
 
 ## Why/Benefits (to NEOM and Tourists)
 
-1. Makes the visitor's experince better and valued more  
-2. Empower the user to be self sufficient and independent  
-3. Increase user satisafaction which improve adoption and participation  
-4. Improve revenues and profitablity of app  
-5. Reduces development costs  
-6. Launch products and feature with a higher confidence  
-7. Provide customer experience that is unique to an individual through Hyper-Personalization
+1. Makes the visitor's experince better and valued more
+2. Empower the user to be self sufficient and independent
+3. Increase user satisafaction which improve adoption and participation
+4. Improve revenues and profitablity of app
+5. Reduces development costs
+6. Launch products and feature with a higher confidence 
+7. Provide customer experience that is unique to an individual through hyper-personalization 
 
 ## Key Considerations
 
