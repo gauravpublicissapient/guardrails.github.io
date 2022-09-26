@@ -8,7 +8,7 @@ parent: Principles
 
 Ensuring the app, its experience and functionality can be scaled/changed/enhanced in the future when new Tenants onboard and the app can handle a significant number of users operating the app simultaneously
 
-{: .highlight } Addresses  increased  usage,  need  to  address  scalability  for  a  feature  perspective
+{:.highlight } Addresses  increased  usage,  need  to  address  scalability  for  a  feature  perspective
 
 
 ## Why/Benefits (to NEOM and Tourists)
