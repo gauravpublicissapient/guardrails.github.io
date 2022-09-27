@@ -5,8 +5,11 @@ parent: Ways of Working
 nav_order: 2
 ---
 
-# title
--Description
+# Cadences
+Global list of reusable series of steps designed to guide a recommended process
 
----
-## Reference Material
+## Product
+
+## Experience
+
+## Technology
