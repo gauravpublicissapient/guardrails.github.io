@@ -10,27 +10,27 @@ Human life is the primary force propelling the vision of NEOM and must be at the
 
 ## Why/Benefits (to NEOM and Tourists)
 
-1. Makes the visitor's experince better and valued more  
-2. Empower the user to be self sufficient and independent  
-3. Increase user satisafaction which improve adoption and participation  
-4. Improve revenues and profitablity of app  
-5. Reduces development costs  
-6. Launch products and feature with a higher confidence  
-7. Provide customer experience that is unique to an individual through Hyper-Personalization
+1. Makes the visitor's experince better and valued more
+2. Empower the user to be self sufficient and independent
+3. Increase user satisafaction which improve adoption and participation
+4. Improve revenues and profitablity of app
+5. Reduces development costs
+6. Launch products and feature with a higher confidence 
+7. Provide customer experience that is unique to an individual through hyper-personalization 
 
 ## Key Considerations
 
-1. Who are the targeted visitor groups?  
-2. Do we have a clear view of the current context of the targeted user groups?  
-3. What is the gap that the proposed proposition, experience, or product promise to fill?  
-4. How are the visitors filling in the existing gap?  
-5. What benefits does the proposed proposition, experience or product promise the visitor?  
-6. Did we effectively involve visitors in the research phase?  
-7. Have we adhered to the user-centred design process?  
-8. Are there any existing mental models which may be leveraged in the design phase?  
-9. Have we tested the proposed proposition, experience, or product been tested with real users before the development phase?  
-10. How did the user feedback impact our thinking and design?  
-11.  Do we want to perform Hyper-Personalization? This would be more useful to a returning visitor when compared to a new visitor
+1. Who are the targeted visitor groups?
+2. Do we have a clear view of the current context of the targeted user groups?
+3. What is the gap that the proposed proposition, experience, or product promise to fill?
+4. How are the visitors filling in the existing gap?
+5. What benefits does the proposed proposition, experience or product promise the visitor?
+6. How do we hyper-personalise the experience for each user by leveraging information from previous site visits/interactions?
+7. Did we effectively involve visitors in the research phase?
+8. Have we adhered to the user-centred design process?
+9. Are there any existing mental models which may be leveraged in the design phase?
+10. Have we tested the proposed proposition, experience, or product been tested with real users before the development phase?
+11. How did the user feedback impact our thinking and design?
   
 ## Practical Actions
 
@@ -41,8 +41,8 @@ Human life is the primary force propelling the vision of NEOM and must be at the
 4. Involve users early and make them integral to all stages of the product lifecycle.  
 5. Ensure the participating visitors are an appropriate representation of the overall visitor base.  
 6. Choose an appropriate validation method that aligns with what is being tesed and expected user feedback  
-7. Test regularly - As the product is being built, regularly test it with potential users to ensure it meets people's needs.
-
+7. Test regularly - As the product is being built, regularly test it with potential users to ensure it meets people's needs. 
+fg
 ---
 
 ## Reference Material to Support/Leverage
