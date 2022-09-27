@@ -29,9 +29,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: neom
 github_username:  neom
 
-logo: "/_assets/logo-neom.webp"
-color_scheme: foo
-
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "vendor"]
 
