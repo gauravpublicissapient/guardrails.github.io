@@ -2,6 +2,7 @@
 layout: default
 title: Elevate experiences with Inclusivity
 parent: Principles
+nav_order: 7
 ---
 
 # title

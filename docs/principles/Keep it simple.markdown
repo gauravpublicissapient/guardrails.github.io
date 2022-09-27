@@ -2,6 +2,7 @@
 layout: default
 title: Keep it simple
 parent: Principles
+nav_order: 5
 ---
 
 # title

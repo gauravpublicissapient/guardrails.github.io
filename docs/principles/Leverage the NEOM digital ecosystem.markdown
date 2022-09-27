@@ -2,6 +2,7 @@
 layout: default
 title: Leverage the NEOM digital ecosystem
 parent: Principles
+nav_order: 3
 ---
   
 

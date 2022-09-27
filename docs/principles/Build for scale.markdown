@@ -2,6 +2,7 @@
 layout: default
 title: Build for scale
 parent: Principles
+nav_order: 4
 ---
 
 # Build for scale

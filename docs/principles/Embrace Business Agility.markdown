@@ -2,6 +2,7 @@
 layout: default
 title: Embrace Business Agility
 parent: Principles
+nav_order: 1
 ---
 
 # Embrace business agility
