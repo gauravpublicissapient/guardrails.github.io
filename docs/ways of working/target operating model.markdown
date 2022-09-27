@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  Templates
+title:  Target operating model
 parent: Ways of Working
-nav_order: 3
+nav_order: 1
 ---
 
 # title

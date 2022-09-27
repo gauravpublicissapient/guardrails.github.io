@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  High level target operating model
+title:  References
 parent: Ways of Working
+nav_order: 5
 ---
 
 # title
